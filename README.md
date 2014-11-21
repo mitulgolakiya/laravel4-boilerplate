@@ -1,7 +1,6 @@
 ## Laravel 4.2 PHP Framework Boilerplate
-----------------------------------------
 
-While setting up any Laravel app, you need to setup many things like some of your favourite plugins, your common Utils, Exceptions, Constants etc.
+While setting up any Laravel app, you need to setup so many things like some of your favourite plugins, your common Utils, Exceptions, Constants etc.
 
 I have created this boilerplate for my personal use and thought like it can also help some other people who are also tired with this type of setup every time.
 
@@ -25,14 +24,13 @@ This boilerplate includes following things:
 
 
 ## Install
------------
 
 Here are the steps to get started:
 
 * Clone this repository - `git clone`
 * Run composer update command `composer update`
 
-And you are ready to go.
+And you are ready to go. !! :)
 
 ## Credits
 
