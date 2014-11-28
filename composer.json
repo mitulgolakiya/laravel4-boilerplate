@@ -20,8 +20,7 @@
 			"app/database/migrations",
 			"app/database/seeds",
 			"app/tests/TestCase.php",
-            "app/libraries",
-            "vendor/flare/math"
+            "app/libraries"
         ]
 	},
 	"scripts": {

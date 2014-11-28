@@ -124,8 +124,7 @@ return array(
 
 		'Jenssegers\Mongodb\MongodbServiceProvider',
 		'Jenssegers\Mongodb\Session\SessionServiceProvider',
-		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
-		'Flare\Math\MathServiceProvider',
+		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider'
 	),
 
 	/*
@@ -191,9 +190,7 @@ return array(
 		'Str'               => 'Illuminate\Support\Str',
 		'URL'               => 'Illuminate\Support\Facades\URL',
 		'Validator'         => 'Illuminate\Support\Facades\Validator',
-		'View'              => 'Illuminate\Support\Facades\View',
-		'Math'              => 'Flare\Math\Facades\Math',
-
+		'View'              => 'Illuminate\Support\Facades\View'
 	),
 
 );
